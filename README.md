@@ -1,6 +1,6 @@
 # AI Image Colorization
 
-A modern, production-ready image colorization application using state-of-the-art deep learning models. This project automatically adds realistic colors to grayscale images using Hugging Face transformers and provides both web and command-line interfaces.
+A production-ready image colorization application using state-of-the-art deep learning models. This project automatically adds realistic colors to grayscale images using Hugging Face transformers and provides both web and command-line interfaces.
 
 ## Features
 
@@ -261,4 +261,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/)
 
 
+# AI-Image-Colorization-v2
 # AI-Image-Colorization-v2
